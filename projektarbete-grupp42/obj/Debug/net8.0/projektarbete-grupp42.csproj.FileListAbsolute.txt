@@ -1,0 +1,14 @@
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\bin\Debug\net8.0\projektarbete-grupp42.exe
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\bin\Debug\net8.0\projektarbete-grupp42.deps.json
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\bin\Debug\net8.0\projektarbete-grupp42.runtimeconfig.json
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\bin\Debug\net8.0\projektarbete-grupp42.dll
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\bin\Debug\net8.0\projektarbete-grupp42.pdb
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\projektarbete-grupp42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\projektarbete-grupp42.AssemblyInfoInputs.cache
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\projektarbete-grupp42.AssemblyInfo.cs
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\projektarbete-grupp42.csproj.CoreCompileInputs.cache
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\projektarbete-grupp42.dll
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\refint\projektarbete-grupp42.dll
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\projektarbete-grupp42.pdb
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\projektarbete-grupp42.genruntimeconfig.cache
+C:\Users\teodo\Downloads\losenordshanterare-grupp42-main\losenordshanterare-grupp42-main\projektarbete-grupp42\obj\Debug\net8.0\ref\projektarbete-grupp42.dll
